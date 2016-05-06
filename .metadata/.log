@@ -493,3 +493,6 @@ Caused by: java.lang.NullPointerException
 
 !ENTRY org.eclipse.wst.server.core 4 0 2016-05-05 14:36:03.011
 !MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2016-05-06 09:37:04.964
+!MESSAGE Several ports (8080, 8009) required by Tomcat v8.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).

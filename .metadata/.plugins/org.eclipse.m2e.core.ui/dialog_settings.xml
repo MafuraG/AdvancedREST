@@ -63,9 +63,12 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\AdvancedREST\advanced-jaxrs-06"/>
+			<item value="C:\AdvancedREST\advanced-jaxrs-01"/>
+			<item value="C:\AdvancedREST\advanced-jaxrs-05a"/>
+			<item value="C:\AdvancedREST\advanced-jaxrs-05"/>
 			<item value="C:\AdvancedREST\advanced-jaxrs-04"/>
 			<item value="C:\AdvancedREST\advanced-jaxrs-03"/>
-			<item value="C:\AdvancedREST\advanced-jaxrs-01"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -78,20 +81,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.mafurag.advanced_jaxrs_05"/>
 			<item value="org.mafurag.rest"/>
-			<item value="org.mafurag.advanced_"/>
-			<item value="org.mafurag.advanced_jaxrs_01"/>
 		</list>
 		<list key="groupId">
 			<item value="org.mafurag"/>
 		</list>
 		<list key="artifactId">
-			<item value="advanced-jaxrs-05"/>
-			<item value="advanced-jaxrs-04"/>
-			<item value="advanced-"/>
-			<item value="advanced-jaxrs-03"/>
-			<item value="advanced-jaxrs-01"/>
+			<item value="advanced-jaxrs-07"/>
+			<item value="advanced-jaxrs-06"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
